@@ -1,1 +1,1 @@
-# TikTok-Techjam-2024
+# EduLearns-Hackathon-2024
