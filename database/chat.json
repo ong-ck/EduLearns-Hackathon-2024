@@ -1,0 +1,54 @@
+{
+  "messages": [
+    {
+      "sender": "Alice",
+      "content": "Hey everyone, has anyone started on the math quiz?",
+      "timestamp": "2024-07-13 09:05:22"
+    },
+    {
+      "sender": "Bob",
+      "content": "I'm stuck on question 3. Can someone help?",
+      "timestamp": "2024-07-13 09:06:15"
+    },
+    {
+      "sender": "Charlie",
+      "content": "Sure, what's the problem with question 3?",
+      "timestamp": "2024-07-13 09:07:01"
+    },
+    {
+      "sender": "Alice",
+      "content": "I think I can help. Let's see...",
+      "timestamp": "2024-07-13 09:07:30"
+    },
+    {
+      "sender": "Charlie",
+      "content": "It's about solving linear equations, right?",
+      "timestamp": "2024-07-13 09:08:12"
+    },
+    {
+      "sender": "Bob",
+      "content": "Yeah, that's the one.",
+      "timestamp": "2024-07-13 09:08:45"
+    },
+    {
+      "sender": "Alice",
+      "content": "Here's how you can approach it...",
+      "timestamp": "2024-07-13 09:09:20"
+    },
+    {
+      "sender": "Charlie",
+      "content": "Thanks, Alice! That makes sense now.",
+      "timestamp": "2024-07-13 09:10:05"
+    },
+    {
+      "sender": "Bob",
+      "content": "Awesome! Thanks, guys.",
+      "timestamp": "2024-07-13 09:10:30"
+    },
+    {
+      "sender": "Alice",
+      "content": "No problem. Happy to help!",
+      "timestamp": "2024-07-13 09:11:00"
+    }
+  ]
+}
