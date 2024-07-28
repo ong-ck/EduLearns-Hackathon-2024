@@ -1,3 +1,6 @@
+from keep_alive import keep_alive
+keep_alive()
+
 import streamlit as st
 from pathlib import Path
 import importlib.util
@@ -8,6 +11,10 @@ PAGES = {
     "start": "quiz/start.py",
     "quiz": "quiz/quiz.py",
     "end": "quiz/end.py",
+    "login": "quiz/login.py",
+    "signup": "quiz/signup.py",
+    "leaderboard": "quiz/leaderboard.py",
+    "chat": "quiz/chat.py"
 }
 
 
