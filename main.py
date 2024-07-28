@@ -1,6 +1,3 @@
-from keep_alive import keep_alive
-keep_alive()
-
 import streamlit as st
 from pathlib import Path
 import importlib.util
